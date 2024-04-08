@@ -9,3 +9,5 @@ This is a daily blog with current date and time where you can post, edit and del
 3. EJS
 4. CSS
 5. Bootstrap 5
+
+Here is the link: https://journal-blog-1.onrender.com
